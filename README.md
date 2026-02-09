@@ -34,12 +34,12 @@ If `fzf` is not installed, the script will attempt to install it via Homebrew.
 
 ## 🚀 Usage
 
-1. Clone or download this script:
-   
-   ```bash
+1. Clone or download this script:   
+```bash
    git clone https://github.com/your-repo/install-nerd-fonts.git
    cd install-nerd-fonts
    chmod +x install_nerd_fonts.sh
+```
 
  2. Use TAB to select multiple fonts in the fzf menu, then press ENTER to install.
   ```bash
