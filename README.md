@@ -49,15 +49,33 @@ If `fzf` is not installed, the script will attempt to install it via Homebrew.
     JetBrainsMono
     UbuntuMono
   ```
+---
+
 <img width="1650" height="2108" alt="image" src="https://github.com/user-attachments/assets/a528e4db-8109-41a1-b8d8-fa38fcf678ec" />
 
+---
 
-⚠️ Notes
+## 📂 Installation Path
+
+* macOS: ~/Library/Fonts
+* Linux: ~/.local/share/fonts
+* Fonts become immediately available in apps (Terminal, VSCode, iTerm2, Neovim, etc.). On Linux, you may need to run:
+ ```bash
+  fc-cache -fv
+ ```
+
+
+
+
+## ⚠️ Notes
+
 * The old homebrew/cask-fonts tap is deprecated. This script installs fonts directly from GitHub.
 * To update fonts, simply re-run the script — it will fetch the latest release.
 * If you want multiple fonts installed automatically, you can edit the script to pre-select them or run it non-interactively.
+* ✅ Tested successfully on macOS and Linux.
 
-📝 Author
-• zx0r
-• Version: 1.1
-• Updated by: Mario Tristán ❤️ Copilot
+## 📝 Author
+
+ * zx0r
+ * Version: 1.1
+ * Updated by: Mario Tristán ❤️ Copilot
