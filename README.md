@@ -5,6 +5,13 @@ This script fetches the latest Nerd Fonts directly from the official [Nerd Fonts
 
 ---
 
+## 📖 What Are Nerd Fonts?
+[Nerd Fonts](https://www.nerdfonts.com/) are popular developer-focused fonts that have been patched with a large collection of extra glyphs (icons, symbols, and characters).  
+They combine programming-friendly fonts like Hack, Fira Code, JetBrains Mono, and Ubuntu Mono with icons from projects such as Font Awesome, Devicons, Octicons, and more.  
+This makes them ideal for use in terminals, code editors, and tools like Neovim, tmux, and powerline prompts.
+
+---
+
 ## ✨ Features
 - Interactive font selection with **fzf** (multi-select supported).
 - Downloads fonts directly from **GitHub releases**.
