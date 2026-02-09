@@ -2,8 +2,8 @@
 
 # Script: install_nerd_fonts.sh
 # Description: Interactively select and install Nerd Fonts for macOS using GitHub releases + fzf.
-# Author: zx0r
-# Version: 1.1
+# Author: Mario Tristan
+# Version: 1.2
 
 set -euo pipefail
 

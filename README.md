@@ -74,8 +74,10 @@ If `fzf` is not installed, the script will attempt to install it via Homebrew.
 * If you want multiple fonts installed automatically, you can edit the script to pre-select them or run it non-interactively.
 * ✅ Tested successfully on macOS and Linux.
 
-## 📝 Author
+## 📝 Author & Version History
 
- * zx0r
- * Version: 1.1
- * Updated by: Mario Tristán ❤️ Copilot
+**Current Version: 1.2** - Mario Tristan
+
+### Version History
+- **v1.2** (2026) - Mario Tristan - Updated and maintained
+- **v1.1** (2024) - zx0r - Original author
